@@ -1,0 +1,149 @@
+	0
+0	For France, American Vines Still Mean Sour Grapes
+1	https://www.nytimes.com/2021/08/29/world/europe/france-wine-usa.html
+2	"
+"
+3	What we know about the 13 U.S. service members killed in the Kabul attack.
+4	https://www.nytimes.com/article/us-soldiers-killed-afghanistan.html
+5	"
+"
+6	As the Taliban Tighten Their Grip, Fears of Retribution Grow
+7	https://www.nytimes.com/2021/08/29/world/asia/afghanistan-taliban-revenge.html
+8	"
+"
+9	A Journey Through Kabul on the Day of the Fall
+10	https://www.nytimes.com/2021/08/28/world/asia/kabul-airport-bombing.html
+11	"
+"
+12	All in or All Out? Biden Saw No Middle Ground in Afghanistan.
+13	https://www.nytimes.com/2021/08/28/us/politics/trump-taliban-biden-afghanistan.html
+14	"
+"
+15	Britons, Unfazed by High Covid Rates, Weigh Their ‘Price of Freedom’
+16	https://www.nytimes.com/2021/08/28/world/europe/coronavirus-britain-uk.html
+17	"
+"
+18	Myanmar’s Monks, Leaders of Past Protests, Are Divided Over the Coup
+19	https://www.nytimes.com/2021/08/28/world/asia/myanmar-monks-coup.html
+20	"
+"
+21	A Doctor’s Tour de France, One ‘Medical Desert’ at a Time
+22	https://www.nytimes.com/2021/08/28/world/europe/france-doctor-shortage-health-care-rural.html
+23	"
+"
+24	After Airport Bombing, an Afghan Family Buries a Father, and Hope
+25	https://www.nytimes.com/2021/08/27/world/asia/afghanistan-airport-bombing-family.html
+26	"
+"
+27	Giant Puppet Ruffles Some Feathers on a Long Walk Through Greece
+28	https://www.nytimes.com/2021/08/27/world/europe/greece-syria-refugees-puppet.html
+29	"
+"
+30	He Built a Robot to Prove a Point About Refugees
+31	https://www.nytimes.com/2021/08/27/world/europe/afghanistan-refugee-hope.html
+32	"
+"
+33	China’s Celebrity Culture Is Raucous. The Authorities Want to Change That.
+34	https://www.nytimes.com/2021/08/27/business/media/china-celebrity-culture.html
+35	"
+"
+36	How Rodrigo Duterte Can Stay No. 1 by Becoming No. 2
+37	https://www.nytimes.com/2021/08/27/world/asia/philippines-duterte-vice-president-elections.html
+38	"
+"
+39	E.U. Set to Propose Travel Restrictions on U.S. Visitors
+40	https://www.nytimes.com/2021/08/29/world/europe/eu-us-travel-restrictions.html
+41	"
+"
+42	‘What Will Happen to Me?’ An Uncertain Future Awaits Afghans Who Fled
+43	https://www.nytimes.com/2021/08/29/world/asia/afghan-refugees-future.html
+44	"
+"
+45	U.S. diplomats are unlikely to stay in Afghanistan after troops leave.
+46	https://www.nytimes.com/2021/08/29/world/afghanistan-usa-diplomats.html
+47	"
+"
+48	Houses of worship struggle with fear of Delta’s rise within their congregations.
+49	https://www.nytimes.com/2021/08/29/world/houses-of-worship-struggle-with-fear-of-deltas-rise-within-their-congregations.html
+50	"
+"
+51	Biden witnesses the return of service members killed in the Kabul airport bombing.
+52	https://www.nytimes.com/2021/08/29/world/asia/kabul-airport-attack-biden.html
+53	"
+"
+54	The U.S. carries out a strike against an explosive-laden vehicle in Kabul, an official says.
+55	https://www.nytimes.com/2021/08/29/world/us-kills-suicide-bombers.html
+56	"
+"
+57	Palestinians Finally Have Vaccines. But Will People Take Them?
+58	https://www.nytimes.com/2021/08/29/world/middleeast/palestinians-covid-vaccines-hesitancy.html
+59	"
+"
+60	After Video of Abusive Nurse, Canada’s Indigenous Seek Health Overhaul
+61	https://www.nytimes.com/2021/08/28/world/canada/canada-indigenous-health-care.html
+62	"
+"
+63	U.S. officials warn Americans again to leave the Kabul airport after Biden says a new attack is ‘highly likely.’
+64	https://www.nytimes.com/2021/08/28/world/asia/uk-france-afghanistan-evacuation-withdrawal.html
+65	"
+"
+66	A reprisal strike killed two ISIS militants and wounded another.
+67	https://www.nytimes.com/2021/08/28/world/us-airstrike-isis-k.html
+68	"
+"
+69	Evacuations From Kabul Wind Down as U.S. Prepares to Pull Last Troops
+70	https://www.nytimes.com/2021/08/28/world/asia/afghanistan-evacuations.html
+71	"
+"
+72	Italy will impose tighter restrictions in Sicily after a surge in cases.
+73	https://www.nytimes.com/2021/08/28/world/italy-restrictions-sicily-virus-surge.html
+74	"
+"
+75	Afghanistan Collapse and Strikes in Somalia Raise Snags for Drone Warfare Rules
+76	https://www.nytimes.com/2021/08/28/us/politics/biden-drones.html
+77	"
+"
+78	The U.K. is ending its civilian evacuations from Kabul today.
+79	https://www.nytimes.com/2021/08/28/world/asia/the-uk-is-ending-its-civilian-evacuations-from-kabul-today.html
+80	"
+"
+81	The U.S. retaliates over the airport bombing, days before the withdrawal deadline.
+82	https://www.nytimes.com/2021/08/28/world/asia/the-us-retaliates-over-the-airport-bombing-days-before-the-withdrawal-deadline.html
+83	"
+"
+84	One Afghan family resettling in the U.S. finds a respite.
+85	https://www.nytimes.com/2021/08/28/world/one-afghan-family-resettling-in-the-us-finds-a-respite.html
+86	"
+"
+87	How Canadian Leaders Campaign in a Pandemic
+88	https://www.nytimes.com/2021/08/27/world/canada/canada-leaders-campaign-pandemic.html
+89	"
+"
+90	Texas anti-mask organizer clings to life in a battle with Covid-19.
+91	https://www.nytimes.com/2021/08/27/world/texas-anti-mask-organizer-clings-to-life-in-a-battle-with-covid-19.html
+92	"
+"
+93	U.S. Launches Strike on ISIS-K as Bombing’s Death Toll Soars
+94	https://www.nytimes.com/2021/08/27/world/asia/kabul-afghanistan-airport-bombing.html
+95	"
+"
+96	Overlooked No More: Randy Snow, Paralympic Champion of Wheelchair Tennis
+97	https://www.nytimes.com/2021/08/27/obituaries/randy-snow-overlooked.html
+98	"
+"
+99	He was a baby on 9/11. Now he’s one of the last casualties of America’s longest war.
+100	https://www.nytimes.com/2021/08/27/world/asia/marine-killed.html
+101	"
+"
+102	A study confirms a small risk of blood clots after vaccines, but not as high as the risk Covid brings.
+103	https://www.nytimes.com/2021/08/27/health/blood-clots-coronavirus.html
+104	"
+"
+105	Italian Official Resigns After Uproar Over Honoring Mussolini’s Brother
+106	https://www.nytimes.com/2021/08/27/world/europe/claudio-durigon-italy-resigns-fascist-park.html
+107	"
+"
+108	Fossils Seized in Police Raid Demystify a Prehistoric Flying Reptile
+109	https://www.nytimes.com/2021/08/27/science/pterosaur-fossil.html
+110	"
+"
