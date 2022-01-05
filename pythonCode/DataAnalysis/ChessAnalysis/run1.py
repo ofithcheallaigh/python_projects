@@ -6,4 +6,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set()
 
-print('Here')
+data = pd.read_csv("games.csv")
+
+print(data.head(3))
